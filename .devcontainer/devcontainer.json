@@ -11,6 +11,6 @@
             }
         }
     },
-    "postCreateCommand": "npm i",
+    "postCreateCommand": "cd auto-resume && npm i",
     "remoteUser": "root"
 }
